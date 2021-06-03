@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal humbly offered to the honourable House of Commons for raising 5310063. 12s.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28437</idno><idno type="EEBO-CITATION">99885686</idno>
+  <idno type="VID">201615</idno>
+  <idno type="EEBO-PROQUEST">2240889072</idno>
+  
+            <idno type="STC">Wing P3705D</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[60]</idno>
+            <idno type="STC">ESTC R224825</idno>
+            <idno type="PROQUEST">ocm99885686</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885686e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201615)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[62])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal humbly offered to the honourable House of Commons for raising 5310063. 12s.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="topical_term">Taxation --  Early works to 1800.</term>
+               <term type="topical_term">Finance, Public --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201615:1"/>
+            <head>A <hi>PROPOSAL</hi> Humbly Offered to the Honourable <hi>House of Commons</hi> for Raising <hi>5310063</hi> l. <hi>12</hi> s.</head>
+            <p>AS an Introduction to our Proposal, we suppose in <hi>England</hi> and <hi>Wales</hi> 8000000 of People; That 1200000 are Masters, and 2666666 Servants; which is One Third. Now if these Masters are charged for their Servants, and the Servants for themselves, according to the following Proposals, then it will amount to 5310063 <hi>l.</hi> 12 <hi>s.</hi>
+            </p>
+            <p>But before we come to the Proposal it self, we desire to explain our selves in a few Things; And to answer an Objection or two, which consequently will be made against it.</p>
+            <p>
+               <hi>First,</hi> By Masters, we do not mean only those which have Families, and the full Number of Servants hereafter mentioned; but likewise every Person, of what Age, Sex or Condition soever: And they, according to their several Denominations, shall become obliged to pay for a fixed Number; otherwise, this Tax would be very unequal; and one Third of the Wealthiest Part of the Kingdom would be left out.</p>
+            <p>
+               <hi>Secondly,</hi> By Servants, we do not understand only those that are Menial, and Hired at certain Wages; but also all Lawyers Clerks, all Appren<g ref="char:EOLhyphen"/>tices, Journey-men, and others, whose Salaries and Wages are fixed either by the Year, or Quarter; as also all Sons and Daughters that may be judged to do the Duty either of Servants or Apprentices. And then, as to our Design in this Tax, we humbly offer it as an Expedient to discharge the Land from the heavy Burthen it hath lain under during the whole War; and to fix a proper Share of it upon those that have paid very little towards the Support of it hitherto.</p>
+            <p>And now as to the Objections, we can see very few that are any ways material; Perhaps it will be objected, that this will consequently occasion several Masters to turn away their Servants, <hi>&amp;c.</hi> But why so? What, because they must pay for so many, whether they have them or not? We are very certain this can be no good Objection, neither can their be any reason given why the Masters should turn away their Servants upon the account of this Tax, by which every Gentleman of an Estate will be Reliev'd two thirds at least, and some a great deal more.</p>
+            <p>Others perhaps will Object, That the several Summs proposed are too large; but then they would do well to consider that the Summ to be rais'd is very large too: and then, upon the whole, they will find they could not possibly be lower. In short, there wants but few Ar<g ref="char:EOLhyphen"/>guments to ascert the Equality of this Tax: For first, it takes the Burthen off the Land, charges the Poor nothing, is in no respect oppres<g ref="char:EOLhyphen"/>sive to the middle sort, and but Taxes the Noblemen and Gentlemen in their due Proportions, and yet raiseth a larger supply then what hath been done by any former Tax.</p>
+            <p>But for all this, we must still expect that this Proposal will meet with abundance of Objections and Censures. Some will be angry with it perhaps, because 'tis none of their own; some for want of consideration; and many out of prejudice or ignorance: But whatever the fate of it be, we have this certain reserve, That if it shall be thought worthy the Honourable House of Commons, it will fall into the hands of those that are best able to judge of things of this kind, and to them we referr it; and so we come to the Proposal it self.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Masters</cell>
+                     <cell role="label">Servants</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>First,</hi> That every Person, of what Quality or Degree soever, that shall appear to be worth 2000<hi>l. per Annum,</hi> or upwards, in Lands, Houses, Money, Places, or All together, pay for each respective Ser<g ref="char:EOLhyphen"/>vant in his Family 5 <hi>l. per Annum.</hi> And that every Person not having a Family, and worth the Sum of 2000 <hi>l. per Annum,</hi> as aforesaid, be obliged to pay 5 <hi>l. per Annum</hi> for 16 Servants certain. And because every one is obliged to pay for Sixteen at least, and some have a great many more, we may well compute Twenty, one with the other: Then the Accounts will be thus,</cell>
+                     <cell>800</cell>
+                     <cell>16000</cell>
+                     <cell>80000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Secondly,</hi> That every Person worth 1000 <hi>l. per Ann.</hi> pay 4 <hi>l.</hi> for every Servant in his Family, and that all those which shall appear worth the Summ aforesaid, notwithstanding they have no Family or competent number of Servants, be oblig'd to pay 4 <hi>l. per Ann.</hi> and for 12 certain; and these accor<g ref="char:EOLhyphen"/>ding to the former Medium, may be computed to keep 15 in general.</cell>
+                     <cell>2836</cell>
+                     <cell>42540</cell>
+                     <cell>170160</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thirdly,</hi> That every Person which shall appear to be worth 500 <hi>l. per Ann.</hi> pay 3 <hi>l.</hi> 10 <hi>s.</hi> for each Servant, and that all such which shall appear worth the summ of 500 <hi>l. per Ann.</hi> and not having Fa<g ref="char:EOLhyphen"/>milies, <hi>&amp;c.</hi> as aforesaid, shall pay for 7 certain, and may be computed by the former Medium to keep 9 in General.</cell>
+                     <cell>6800</cell>
+                     <cell>61200</cell>
+                     <cell>214200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fourthly,</hi> That every Person who shall appear worth 250 <hi>l. per Annum,</hi> or upwards, pay 3 <hi>l. per Annum</hi> for each Servant in his Family. And also all Persons which shall appear worth 250 <hi>l. per An<g ref="char:EOLhyphen"/>num,</hi> as aforesaid, notwithstanding they have no Families, shall be obliged to pay 3 <hi>l. per Annum</hi> for 4 Servants certain. And these, according to the former <hi>Medium,</hi> may be computed to keep 6 in general.</cell>
+                     <cell>29672</cell>
+                     <cell>178032</cell>
+                     <cell>534096</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fifthly,</hi> That every Person worth 100 <hi>l. per Ann.</hi> or upwards, pay 2 <hi>l.</hi> 10 <hi>s.</hi> for each Servant, and that every Person worth the summ of 100 <hi>l. per Ann.</hi> as aforesaid pay 2 <hi>l.</hi> 10 <hi>s.</hi> for three Servants cer<g ref="char:EOLhyphen"/>tain, and these according to the former Medium may be supposed to keep 5 in General.</cell>
+                     <cell>123976</cell>
+                     <cell>619880</cell>
+                     <cell>1549700</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sixthly,</hi> That every Person worth 40 <hi>l. per Ann.</hi> and upwards, pay 2 <hi>l.</hi> for each Servant, and shall pay for 3 and no more.</cell>
+                     <cell>185522</cell>
+                     <cell>556566</cell>
+                     <cell>1113130</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Seventhly,</hi> That all Persons that shall appear to be worth 300 <hi>l.</hi> in the whole, shall pay 1 <hi>l.</hi> 10 <hi>s.</hi> for each Servant, and shall pay for 2 and no more.</cell>
+                     <cell>342054</cell>
+                     <cell>684108</cell>
+                     <cell>1026162</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eighthly,</hi> That all Persons that shall appear to be worth 30 <hi>l.</hi> in the whole, shall pay 1 <hi>l.</hi> for one Servant only.</cell>
+                     <cell>508340</cell>
+                     <cell>508340</cell>
+                     <cell>508340</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">1200000</cell>
+                     <cell role="total">2666666</cell>
+                     <cell role="total"> </cell>
+                     <cell role="total"> </cell>
+                     <cell role="total"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ninthly,</hi> Admitting the Servants to be in Number 2666666, and allowing 1/7 part to receive 4 <hi>l. per Ann.</hi> and upwards, we may in common suppose them to receive 6 <hi>l.</hi> each, and then if every one which shall receive above 4 <hi>l. per Ann.</hi> pay 1 <hi>s. per</hi> pound, it will amount to</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>114275</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total"> </cell>
+                     <cell role="total">Total</cell>
+                     <cell role="total">5310063</cell>
+                     <cell role="total">12</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And now as to our Calculation, we believe that that part of it which depends upon Rule, will appear very exact; but for the Numbers of People Masters and Servants which are purely conjectural, we cannot pretend to be particular in; we presume we are as near to the Mark as the Nature of the thing is capable of, and shall be ready to do our best to answer any Objection that shall be made upon that, or upon any other Account relating to this Matter.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
